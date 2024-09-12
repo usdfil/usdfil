@@ -2,7 +2,9 @@
 
 USDfil is the native stablecoin of the USDepin protocol on Filecoin - it is described in this document. USDepin is a multichain protocol for stablecoins, backed by physical hardware assets and DeFi. Its mission is to enable stable, permissionless transactions supported by decentralized physical infrastructure (DePIN).
 
-- 📫 How to reach us: usdfil@protonmail.com
+For more information, check out our [GitBook documentation](https://usdfil.gitbook.io/main).
+
+📫 How to reach us: usdfil@protonmail.com
 <!--
 **usdfil/usdfil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
