@@ -4,7 +4,7 @@ USDfil is the native stablecoin of the USDepin protocol on Filecoin - it is desc
 
 For more information, check out our [GitBook documentation](https://usdfil.gitbook.io/main).
 
-📫 How to reach us: usdfil@protonmail.com
+📫 How to reach us: stability@usdfil.xyz
 <!--
 **usdfil/usdfil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
