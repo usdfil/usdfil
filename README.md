@@ -1,6 +1,6 @@
 ## Introduction
 
-USDfil is the native stablecoin of the USDepin protocol on Filecoin.
+USDfil is the native stablecoin of the USDepin protocol on Filecoin.  Check it out here: https://usdfil.xyz
 
 For more information, check out our [GitBook documentation](https://usdfil.gitbook.io/main).
 
